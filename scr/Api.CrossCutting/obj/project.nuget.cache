@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLxq1vg1hhzVVxop7mVqfPJVc4wa2r49d64QjcwOsIYPELQ5JJsA91yiklOFszEIG9SkledKuQRpOK7N0nMJ5Q==",
+  "dgSpecHash": "BpSmzAeeYfVaRl6Y0X65+8DQQHrYkNRaDh95UchQuoqDfLpN4RHh+jWUQBg4yumDmpiO9o2oGr4Jotsiqs/+Cg==",
   "success": true,
-  "projectFilePath": "C:\\api\\scr\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\csharp\\WebApi-Netcore\\scr\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
