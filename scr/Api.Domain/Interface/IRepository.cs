@@ -12,9 +12,11 @@ namespace Api.Domain.Interface
 
         Task<T> InsertAsync(T item);
         Task<T> UpdateAsync(T item);
-        Task<bool> DeleteAsync(T item);
-        Task<T> SelectAsync(Guid Id);
+        Task<bool> DeleteAsync(Guid id);
+        Task<T> SelectAsync(Guid id);
         Task<IEnumerable<T>> SelectAsync();
+        Task<bool> ExitAsysnc(Guid id);
+
 
 
 
