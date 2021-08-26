@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a5tCJKUuqoNYlb8YSS+rsxY+bxUYkPeHgGROPM8B+Shm+YAp7ZcMHLCXtsM8vxKI0ZO7Y9dq9NOhzvIqTP0t/Q==",
+  "dgSpecHash": "HFBDf+wBfvr9RQESXcwzXBQnxEq8ogVFpuygQQLDw7A786sCiAl2V5s9znUdsZp11Q51GASAJDoTPIP8v3hTFA==",
   "success": true,
   "projectFilePath": "C:\\csharp\\WebApi-Netcore\\scr\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
