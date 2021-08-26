@@ -11,7 +11,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using Api.CrossCutting.DependencyInjection;
 using Api.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
